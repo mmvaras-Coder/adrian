@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="UTF-8">
+   	 <meta name="viewport"  >
+   	 <link rel="stylesheet" type="text/css" href="css.css">
+	<title>
+		ejercicios clase
+	</title>
+</head>
+<body>
+
+<h1>hola bicho</h1>
+<h2>hola piter</h2>
+<h3>hola ostia</h2>
+
+</body>
+</html>
